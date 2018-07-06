@@ -43,6 +43,7 @@ io.on('connection', socket => {
   });
 
   socket.on('room', requestedRoom => {
+    console.log(socket.username)
     if (!socket.username) {
       return socket.emit('errorMessage', 'Username not set!');
     }
