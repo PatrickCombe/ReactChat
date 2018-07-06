@@ -1,8 +1,8 @@
 # My First React App: Todo App
 
-This is a full-featured React app that lets you add, cross off, and remove tasks from a todo list.
+This is a simple chat application using React and WebSockets. It uses components to implement functionality to enter a room, send messages, receive messages, and change rooms.
 
 ## Screenshots
 
 ### App
-![alt text](Screenshots/1.png )
+![alt text](Screenshots/2.png )
